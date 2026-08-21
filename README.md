@@ -1,2 +1,1 @@
-# utl_shortener
-
+Simple URL Shortener REST API
